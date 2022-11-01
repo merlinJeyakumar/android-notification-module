@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/merlinJeyakumar/android-notification-module.svg)](https://jitpack.io/#merlinJeyakumar/android-notification-module)
+
 Project requires specific template
 
 ## Installation ##
@@ -11,3 +13,6 @@ Project requires specific template
 
 ## Forks: ##
 > notify  - https://github.com/Karn/notify
+
+## Library ##
+`` com.github.merlinJeyakumar:android-notification-module:release-v1 ``
