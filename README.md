@@ -15,4 +15,4 @@ Project requires specific template
 > notify  - https://github.com/Karn/notify
 
 ## Library ##
-`` com.github.merlinJeyakumar:android-notification-module:release-v1 ``
+`` implementation("com.github.merlinJeyakumar:android-notification-module:release-v1") ``
